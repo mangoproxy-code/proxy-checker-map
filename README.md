@@ -36,9 +36,9 @@ This project is a Python-based GUI application to check multiple IP addresses us
 
 ## Usage
 
-1. Run the `ip_checker.py` script:
+1. Run the `main.py` script:
     ```sh
-    python ip_checker.py
+    python main.py
     ```
 
 2. Use the GUI to:
