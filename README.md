@@ -1,6 +1,6 @@
-# IP Checker Tool
+# Proxy Checker Map
 
-This project is a Python-based GUI application to check multiple IP addresses using a proxy, gather information from `ip-api`, and display the results on an interactive map. The tool also saves the results in a CSV file.
+This project is a Python-based GUI application that checks multiple IP addresses using a specified proxy, gathers information from `ip-api`, and displays the results on an interactive map. The tool also saves the results in a CSV file.
 
 ## Features
 
@@ -25,8 +25,8 @@ This project is a Python-based GUI application to check multiple IP addresses us
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ip-checker-tool.git
-    cd ip-checker-tool
+    git clone https://github.com/mangoproxy-code/proxy-checker-map.git
+    cd proxy-checker-map
     ```
 
 2. Install the required Python packages:
@@ -52,3 +52,7 @@ This project is a Python-based GUI application to check multiple IP addresses us
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Alex Whynot
